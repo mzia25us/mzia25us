@@ -16,5 +16,8 @@ Computer Science Student | Aspiring Network Engineer | Building networking labs 
 - Python for automation
 - SQL + databases
 
+## ⚙️ Most Used Languages
+- Python | HTML | CSS | JavaScript
+
 ## 📫 Contact
 - Email: (mzia25us@gmail.com)
