@@ -8,6 +8,8 @@ Building networking labs, automation projects, and coursework while developing p
 
 I enjoy building small projects and coursework repositories to strengthen practical skills in programming, databases, and web development.
 
+---
+
 ## 🔗 Links
 
 🌐 **Live CV Website**  
