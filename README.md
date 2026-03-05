@@ -66,14 +66,6 @@ Python | HTML | CSS | JavaScript
 
 ---
 
-## 📊 GitHub Stats
-
-![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzia25us&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzia25us&layout=compact)
-
----
-
 ## 📫 Contact
 
 Email: mzia25us@gmail.com
