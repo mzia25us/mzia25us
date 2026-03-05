@@ -4,6 +4,9 @@ Computer Science Student | Aspiring Network Engineer
 Building networking labs, automation projects, and coursework while developing practical technical skills.
 
 ---
+## 🥳 About Me
+
+I enjoy building small projects and coursework repositories to strengthen practical skills in programming, databases, and web development.
 
 ## 🔗 Links
 
