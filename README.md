@@ -41,6 +41,11 @@ https://github.com/mzia25us/programming-intro-coursework
 
 Python | HTML | CSS | JavaScript
 
+![Python](https://img.shields.io/badge/Python-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ---
 
 ## 📫 Contact
