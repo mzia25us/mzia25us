@@ -1,7 +1,6 @@
 # Mahnoor Zia 👋
 
-Computer Science student | Aspiring Network Engineer  
-I build networking labs, automation scripts, and portfolio projects.
+Computer Science Student | Aspiring Network Engineer | Building networking labs and automation projects
 
 ## 🔗 Links
 - Live CV Website (not real, just a project): https://mzia25us.github.io/cv-website/
