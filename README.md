@@ -1,7 +1,7 @@
 # Mahnoor Zia 👋
 
-Computer Science student interested in networking, automation, and infrastructure.  
-Currently building small projects and coursework to strengthen practical skills.
+Computer Science Student | Aspiring Network Engineer  
+Building networking labs, automation projects, and coursework while developing practical technical skills.
 
 ---
 
@@ -17,23 +17,46 @@ https://github.com/mzia25us
 
 ## 📌 Featured Projects
 
-**CV Website (HTML, CSS, JavaScript)**  
-A responsive personal CV website built using HTML, CSS, and JavaScript with form validation and a portfolio section.  
+### 🌐 CV Website
+Responsive personal CV website built using HTML, CSS, and JavaScript.
+
+Features include:
+- Responsive layout
+- Portfolio section
+- Contact form with JavaScript validation
+
+🔗 Live Site  
+https://mzia25us.github.io/cv-website/
+
+🔗 Repository  
 https://github.com/mzia25us/cv-website
 
-**Programming Intro Coursework (Python)**  
-University programming coursework covering Python fundamentals and problem solving.  
+
+### 🐍 Programming Intro Coursework
+University coursework covering Python programming fundamentals including problem solving and algorithmic thinking.
+
+🔗 Repository  
 https://github.com/mzia25us/programming-intro-coursework
+
 
 ---
 
 ## 🧰 Skills I'm Building
 
 - Networking fundamentals (TCP/IP, subnetting, routing)
-- Linux and scripting
-- Python for automation
+- Linux and command line tools
+- Python scripting for automation
 - SQL and database design
 - Basic web development
+
+---
+
+## 📚 Currently Learning
+
+- Network automation
+- Linux system administration
+- Python scripting for networking
+- Database normalisation and SQL queries
 
 ---
 
@@ -41,10 +64,13 @@ https://github.com/mzia25us/programming-intro-coursework
 
 Python | HTML | CSS | JavaScript
 
-![Python](https://img.shields.io/badge/Python-blue)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+---
+
+## 📊 GitHub Stats
+
+![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzia25us&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzia25us&layout=compact)
 
 ---
 
