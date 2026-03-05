@@ -20,11 +20,6 @@ https://github.com/mzia25us
 ### 🌐 CV Website
 Responsive personal CV website built using HTML, CSS, and JavaScript.
 
-Features include:
-- Responsive layout
-- Portfolio section
-- Contact form with JavaScript validation
-
 🔗 Live Site  
 https://mzia25us.github.io/cv-website/
 
@@ -38,6 +33,12 @@ University coursework covering Python programming fundamentals including problem
 🔗 Repository  
 https://github.com/mzia25us/programming-intro-coursework
 
+
+### 🗄️ Project Management Database (SQL)
+University coursework focused on designing a **normalised relational database** for a project management system using **MySQL**, including schema design and SQL queries.
+
+🔗 Repository  
+https://github.com/mzia25us/year-one-project-management-database-sql
 
 ---
 
