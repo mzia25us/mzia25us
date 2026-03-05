@@ -1,23 +1,48 @@
 # Mahnoor Zia 👋
 
-Computer Science Student | Aspiring Network Engineer | Building networking labs and automation projects
+Computer Science student interested in networking, automation, and infrastructure.  
+Currently building small projects and coursework to strengthen practical skills.
+
+---
 
 ## 🔗 Links
-- Live CV Website (not real, just a project): https://mzia25us.github.io/cv-website/
-- GitHub: https://github.com/mzia25us
 
-## 📌 Featured projects
-- **CV Website (HTML/CSS/JS)**: https://github.com/mzia25us/cv-website
-- **Programming Intro Coursework (Python)**: https://github.com/mzia25us/programming-intro-coursework
+🌐 **Live CV Website**  
+https://mzia25us.github.io/cv-website/
 
-## 🧰 Skills I'm building
+💻 **GitHub Profile**  
+https://github.com/mzia25us
+
+---
+
+## 📌 Featured Projects
+
+**CV Website (HTML, CSS, JavaScript)**  
+A responsive personal CV website built using HTML, CSS, and JavaScript with form validation and a portfolio section.  
+https://github.com/mzia25us/cv-website
+
+**Programming Intro Coursework (Python)**  
+University programming coursework covering Python fundamentals and problem solving.  
+https://github.com/mzia25us/programming-intro-coursework
+
+---
+
+## 🧰 Skills I'm Building
+
 - Networking fundamentals (TCP/IP, subnetting, routing)
-- Linux + scripting
+- Linux and scripting
 - Python for automation
-- SQL + databases
+- SQL and database design
+- Basic web development
+
+---
 
 ## ⚙️ Most Used Languages
-- Python | HTML | CSS | JavaScript
+
+Python | HTML | CSS | JavaScript
+
+---
 
 ## 📫 Contact
-- Email: (mzia25us@gmail.com)
+
+Email: mzia25us@gmail.com
