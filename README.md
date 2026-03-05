@@ -8,7 +8,7 @@ Building networking labs, automation projects, and coursework while developing p
 ## 🔗 Links
 
 🌐 **Live CV Website**  
-https://mzia25us.github.io/cv-website/
+https://mzia25us.github.io/year-one-CV-website-portfolio/
 
 💻 **GitHub Profile**  
 https://github.com/mzia25us
